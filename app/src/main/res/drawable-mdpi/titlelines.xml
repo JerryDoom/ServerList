@@ -1,0 +1,14 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- line under bar -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#ffb5c8ff" />
+        </shape>
+    </item>
+    <!--  action bar -->
+    <item android:bottom="3dip">
+        <shape android:shape="rectangle">
+            <solid android:color="#ffb5c8fa" />
+        </shape>
+    </item>
+</layer-list>
